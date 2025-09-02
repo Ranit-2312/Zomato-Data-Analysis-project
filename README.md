@@ -1,10 +1,4 @@
-# Zomato-Data-Analysis-project
-
-Here’s a **professional and detailed README.md** draft for your Zomato Data Analysis project. I’ve highlighted everything pointwise for clarity and professionalism:
-
----
-
-# Zomato Data Analysis Mini Project
+# Zomato-Data-Analysis-proje
 
 ## 📌 Project Overview
 
